@@ -1,4 +1,3 @@
-![Aditya's GitHub Banner](./assets/collaborate.png)
 
 ![Visits Badge](https://badges.pufler.dev/visits/xcyberpunkx0/xcyberpunkx0)
 [![Twitter Badge](https://img.shields.io/badge/-xcyberpunkx0-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/xcyberpunkx0)](https://twitter.com/xcyberpunkx0)
